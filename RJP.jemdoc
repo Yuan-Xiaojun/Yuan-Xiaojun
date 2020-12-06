@@ -7,8 +7,8 @@
 . 	Bin Duo, Qingqing Wu, Xiaojun Yuan, and Rui Zhang, \"Energy efficiency maximization for full-duplex UAV secrecy communication,\" IEEE Trans. Veh. Tech., vol. 69, no. 4, pp. 4590-4595, April 2020.
 . 	Tao Huang, Xiaojun Yuan, Jinhong Yuan, and Wei Xiang, \"Optimization of data exchange in 5G vehicle-to-infrastructure edge networks,\" to appear in IEEE Trans. Veh. Tech.
 . 	Mingchen Zhang, Xiaojun Yuan*, and Zhen-Qing He, \"Variance state propagation for structured sparse Bayesian learning,\" to appear at IEEE Trans. Signal Processing.
-. 	Wenjing Yan, Xiaojun Yuan*, Zhen-Qing He, and Xiaoyan Kuai, \"Passive beamforming and information transfer design for large intelligent surface aided multiuser MIMO systems,\" to appear at IEEE J. Sel. Areas Commun.
-. 	Wenjing Yan, Xiaoyan Kuai, and Xiaojun Yuan*, \"Passive beamforming and information transfer via large intelligent surface,\" IEEE Wireless Commun. Lett., vol. 9, no. 4, pp. 533-537, April 2020.
+. 	Wenjing Yan, Xiaojun Yuan*, Zhen-Qing He, and Xiaoyan Kuai, \"Passive beamforming and information transfer design for large intelligent surface aided multiuser MIMO systems,\" to appear at IEEE J. Sel. Areas Commun. \[[https://github.com/Yuan-Xiaojun/Parfor_Sim code]] \n
+. 	Wenjing Yan, Xiaoyan Kuai, and Xiaojun Yuan*, \"Passive beamforming and information transfer via large intelligent surface,\" IEEE Wireless Commun. Lett., vol. 9, no. 4, pp. 533-537, April 2020. 
 . 	Peilan Wang, Jun Fang, Xiaojun Yuan, Zhi Chen, Huiping Duan, and Hongbin Li, \"Intelligent reflecting surface-assisted millimeter wave communications: Joint active and passive precoding design,\" submitted to IEEE Trans. Veh. Tech.
 . 	Sixian Li, Duo Bin, Xiaojun Yuan*, Ying-Chang Liang, and Marco Di Renzo, \\\\\"Reconfigurable intelligent surface assisted UAV communication: Joint trajectory design and passive beamforming,\" to appear at IEEE Wireless Commun. Lett.
 . 	Jiaqi Shi, Qianqian Zhang, Ying-Chang Liang, and Xiaojun Yuan, \"Distributed deep-learning for power allocation in D2D networks with outdated interference information,\" submitted to IEEE Trans. Commun.
@@ -27,7 +27,7 @@
 . 	Xiaoyan Kuai, Lei Chen, Xiaojun Yuan*, and An Liu, \"Structured turbo compressed sensing for downlink massive MIMO-OFDM channel estimation,\" IEEE Trans. Wireless Commun., vol. 18, no. 8, pp. 3813-3826, Aug. 2019.
 . 	李勇，袁晓军*，\"完整数据交换模型下多用户集群的多输入多输出多向中继信道的自由度分析\"，中国科学院大学学报，已接收。
 . 	Xuehai He, Zhipeng Xue, and Xiaojun Yuan, \"Learned turbo message passing for affine rank minimization and compressed robust principal component analysis,\" IEEE Access, vol. 7, no. 1, pp. 140606-140617, Dec. 2019.
-. 	Wenjing Yan and Xiaojun Yuan*, \"Semi-blind channel-and-signal estimation for uplink massive MIMO with channel sparsity,\" IEEE Access, vol. 7, no. 1, pp. 95008-95020, Dec. 2019.
+. 	Wenjing Yan and Xiaojun Yuan*, \"Semi-blind channel-and-signal estimation for uplink massive MIMO with channel sparsity,\" IEEE Access, vol. 7, no. 1, pp. 95008-95020, Dec. 2019. \[[https://github.com/Yuan-Xiaojun/Semi-blind-BiGAMP code]] \n
 . 	Zhen-Qing He, Xiaojun Yuan*, and Lei Chen, \"Super-resolution channel estimation for massive MIMO via clustered sparse Bayesian learning,\" IEEE Trans. Veh. Tech., vol. 68, no. 6, pp. 6156-6160, June 2019.
 . 	Lei Chen and Xiaojun Yuan*, \"Blind multiuser detection in massive MIMO channels with clustered sparsity,\" IEEE Wireless Commun. Letters, vol. 8, no. 4, pp. 1052-1055, Aug. 2019.
 . 	Yi Liu, Xiaoyan Kuai, Xiaojun Yuan*, Ying-Chang Liang, and Liang Zhou, \"Learning based iterative interference cancellation for cognitive internet of things,\" IEEE IoT Journal, vol. 6, no. 4, pp. 7213-7224, Aug. 2019.
@@ -49,7 +49,7 @@
 . 	Jianwen Zhang, Xiaojun Yuan*, and Ying Jun (Angela) Zhang, \"Blind signal detection in massive MIMO: Exploiting the channel sparsity,\" IEEE Trans. Commun., vol. 66, no. 2, pp. 700-712, Feb. 2018.
 . 	Rui Wang, Xiaojun Yuan, and Jun Wu, \"Degrees of freedom of MIMO multipair two-way relay channel with delayed channel state information,\" IEEE Signal Processing Letters, vol. 25, no. 2, pp. 243-247, Feb. 2018.
 . 	Zichao Sun, Li Chen, Xiaojun Yuan, and Yushan Yakufu, \"Design and analysis of BICM-ID for two-way relay channels with physical-layer network coding,\" IEEE Trans. Vehicular Technology, vol. 66, no. 11, pp. 10170-10182, Sep. 2017.
-. 	Zhipeng Xue, Junjie Ma, and Xiaojun Yuan*, \"Denoising-based turbo compressed sensing,\" IEEE Access, vol. 5, pp. 7193-7204, April 2017.
+. 	Zhipeng Xue, Junjie Ma, and Xiaojun Yuan*, \"Denoising-based turbo compressed sensing,\" IEEE Access, vol. 5, pp. 7193-7204, April 2017. \[[https://github.com/Yuan-Xiaojun/DTurboCS code]] \n
 . 	Jianwen Zhang, Tianwei Wei, Xiaojun Yuan*, and Rui Zhang, \"Multi-antenna constant envelope wireless power transfer,\" IEEE Trans. Green Communications and Networking, vol. 1, no. 4, pp. 1-10, Dec. 2017. (Best journal paper award)
 . 	Kangqi Liu, Meixia Tao, and Xiaojun Yuan, \"Optimal DoF region for the asymmetric two-pair MIMO two-way relay channel,\" IEEE Trans. Signal Processing, vol. 65, no. 7, pp. 1700-1711, April 1, 2017.
 . 	Jianwen Zhang, Xiaojun Yuan*, and Yin Jun (Angela) Zhang, \"Locally orthogonal training design based on graph coloring in Cloud-RANs,\" IEEE Trans. Wireless Communications, vol. 16, no. 10, pp. 6426-6437, Oct. 2017.
@@ -66,7 +66,7 @@
 . 	Junjie Ma, Xiaojun Yuan, and Li Ping, \"On the performance of turbo signal recovery with partial DFT sensing matrix,\" IEEE Signal Processing Letters, vol. 22, no. 10, pp. 1580-1584, Oct. 2015.
 . 	Zhaoxi Fang, Xiaojun Yuan, and Xin Wang, \"Distributed energy beamforming for simultaneous wireless information and power transfer in the two-way relay channel,\" IEEE Signal Processing Letters, vol. 22, no. 6, pp. 656-660, Jun 2015.
 . 	Rui Wang, Xiaojun Yuan*, and Meixia Tao, \"Degrees of freedom of MIMO multiway relay channel with clustered pairwise exchange,\" IEEE J. Sel. Areas Commun., vol. 33, no. 2, pp. 337-351, Feb. 2015.
-. 	Junjie Ma, Xiaojun Yuan*, and Li Ping, \"Turbo compressed sensing with partial DFT sensing matrix,\" IEEE Signal Processing Letters, vol. 22, no. 2, pp. 158-161, Feb. 2015.
+. 	Junjie Ma, Xiaojun Yuan*, and Li Ping, \"Turbo compressed sensing with partial DFT sensing matrix,\" IEEE Signal Processing Letters, vol. 22, no. 2, pp. 158-161, Feb. 2015. \[[https://github.com/Yuan-Xiaojun/TurboCS code]] \n
 . 	Xiaojun Yuan, Li Ping, Chongbin Xu, and Aleksandar Kavcic, \"Achievable rates of MIMO systems with linear precoding and iterative LMMSE detection,\" IEEE Trans. Inform. Theory, vol. 60, no. 11, pp. 7073-7089, Nov. 2014.
 . 	Xiaojun Yuan, Junjie Ma, and Li Ping, \"Energy-spreading-transform based MIMO systems: Iterative equalization, evolution analysis, and precoder optimization,\" IEEE Trans Wireless Commun., vol. 13, no. 9, pp. 5237-5250, Sep. 2014.
 . 	Rui Wang and Xiaojun Yuan*, \"MIMO multiway relaying with pairwise data exchange: A degrees of freedom perspective,\" IEEE Trans. Signal Processing, vol. 62, no. 20, pp. 5294-5307, Oct. 2014.

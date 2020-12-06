@@ -5,7 +5,7 @@
 {}{img_left}{Material/bio.jpg}{XIAOJUN YUAN}{131}{160}{Material/CV.pdf}
 Professor,\n [https://en.uestc.edu.cn/info/1017/1438.htm=en_UK National Key Laboratory of Science and Technology on Communications], \n[https://en.uestc.edu.cn/ University of Electronic Science and Technology of China (UESTC)]\n
 2006 Xiyuan Avenue, Gaoxin District \n
-Chengdu, Sichuan 611731, Chinan \n
+Chengdu, Sichuan 611731, China \n
 TEL:  \+86-028-61830884 \n
 FAX: \+86-028-61830283 \n
 EMAIL: xjyuan@uestc.edu.cn \n
@@ -29,6 +29,14 @@ Students with a relevant subject background and a good mathematical foundation a
 . Bin Duo, Qingqing Wu, Xiaojun Yuan, and Rui Zhang, \"Energy efficiency maximization for full-duplex UAV secrecy communication,\" IEEE Trans. Veh. Tech., vol. 69, no. 4, pp. 4590-4595, April 2020.
 . Tao Huang, Xiaojun Yuan, Jinhong Yuan, and Wei Xiang, \"Optimization of data exchange in 5G vehicle-to-infrastructure edge networks,\" to appear in IEEE Trans. Veh. Tech.\n
 . M. Zhang, X. Yuan, and Z.-Q. He, “Variance State Propagation for Structured Sparse Bayesian Learning,” IEEE TRANSACTIONS ON SIGNAL PROCESSING, vol. 68, pp. 2386–2400, 2020,\[[https://doi.org/10.1109/TSP.2020.2983827 html]] \[[https://github.com/Yuan-Xiaojun/VSPcode code]] \n
+. Junjie Ma, Xiaojun Yuan*, and Li Ping, \"Turbo compressed sensing with partial DFT sensing matrix,\" IEEE Signal Processing Letters, vol. 22, no. 2, pp. 158-161, Feb. 2015. \[[https://github.com/Yuan-Xiaojun/TurboCS code]] \n
+. Hang Liu, Xiaojun Yuan, and Ying Jun Zhang. "Matrix-calibration-based cascaded channel estimation for reconfigurable intelligent surface assisted multiuser MIMO," IEEE Journal on Selected Areas in Communications, 2020,\[[https://github.com/liuhang1994/Matrix-Calibration-Based-Cascaded-Channel-Estimation code]] \n
+. Z. Xue, X. Yuan and Y. Yang, "Turbo-Type Message Passing Algorithms for Compressed Robust Principal Component Analysis," in IEEE Journal of Selected Topics in Signal Processing, vol. 12, no. 6, pp. 1182-1196, Dec. 2018. \[[https://github.com/Yuan-Xiaojun/TMP code]] \n
+. 	Wenjing Yan, Xiaojun Yuan, Zhen-Qing He, and Xiaoyan Kuai, \"Passive beamforming and information transfer design for large intelligent surface aided multiuser MIMO systems,\" to appear at IEEE J. Sel. Areas Commun. \[[https://github.com/Yuan-Xiaojun/Parfor_Sim code]] \n
+. W. Yan, X. Yuan, Z. -Q. He and X. Kuai, "Passive Beamforming and Information Transfer Design for Reconfigurable Intelligent Surfaces Aided Multiuser MIMO Systems," in IEEE Journal on Selected Areas in Communications, vol. 38, no. 8, pp. 1793-1808, Aug. 2020 \[[https://github.com/Yuan-Xiaojun/MIMO_SingleRIS code]] \n
+. W. Yan, X. Yuan and X. Kuai, "Passive Beamforming and Information Transfer via Large Intelligent Surface," IEEE Wireless Communications Letters, vol. 9, no. 4, pp. 533-537, Apr. 2020 \[[https://github.com/Yuan-Xiaojun/Matlab_SIMO code]] \n
+. 	Wenjing Yan and Xiaojun Yuan*, \"Semi-blind channel-and-signal estimation for uplink massive MIMO with channel sparsity,\" IEEE Access, vol. 7, no. 1, pp. 95008-95020, Dec. 2019. \[[https://github.com/Yuan-Xiaojun/Semi-blind-BiGAMP code]] \n
+
 [RJP.html *More*].
 
 === Refereed Conference Publications
@@ -38,4 +46,6 @@ Students with a relevant subject background and a good mathematical foundation a
 . Shuchao Jiang, Xiaojun Yuan, Xin Wang, and Chongbin Xu, \"Joint user identification, channel estimation, and signal detection for grant-free NOMA,\" Proc. IEEE Global Communications Conference (GLOBECOM 2019), Waikoloa, HI, USA, Dec. 9-13, 2019.
 . Hang Liu, Xiaojun Yuan, and Ying Jun (Angela) Zhang, \"Beam-selection-based statistical beamforming for FDD massive MIMO: Exploiting spatial reciprocity,\" Proc. IEEE Global Communications Conference (GLOBECOM 2019), Waikoloa, HI, USA, Dec. 9-13, 2019.
 . Kunlun Wang, Yong Zhou, Yang Yang, Xiaojun Yuan, and Xiliang Luo, \"Task offloading in NOMA-based fog computing networks: A deep Q-learning approach,\" Proc. IEEE Global Communications Conference (GLOBECOM 2019), Waikoloa, HI, USA, Dec. 9-13, 2019. \n
+. 	Zhipeng Xue, Xiaojun Yuan, and Junjie Ma, "TARM: A turbo-type algorithm for affine rank minimization,” in Proc. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2018), Calgary, Canada, April 15-20, 2018. \[[https://github.com/Yuan-Xiaojun/TARM code]] \n
+
 [RCP.html *More*].
